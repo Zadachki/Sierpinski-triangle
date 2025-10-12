@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sierpinski triangle", "Sierpinski triangle.csproj", "{0A275D18-CAED-43BF-A0E2-AE70F2DB2CBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A275D18-CAED-43BF-A0E2-AE70F2DB2CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A275D18-CAED-43BF-A0E2-AE70F2DB2CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A275D18-CAED-43BF-A0E2-AE70F2DB2CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A275D18-CAED-43BF-A0E2-AE70F2DB2CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4403E0F5-0473-44A2-A2B7-89AE27B86E65}
+	EndGlobalSection
+EndGlobal
